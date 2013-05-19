@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator
+END
+BillCalculation1.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/BillCalculation1.java
+END
+ConsumerDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/ConsumerDetail.java
+END
+FindBillCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/FindBillCycle.java
+END
+BillUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/BillUtility.java
+END
+FindCalDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/FindCalDate.java
+END
+BillCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/BillCalculation.java
+END
+LedgerCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/LedgerCalculation.java
+END
+FindRebate.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/FindRebate.java
+END
+GenerateBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/GenerateBill.java
+END
+FindCess.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/FindCess.java
+END
+ChallanDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/ChallanDetails.java
+END
+FindRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/FindRate.java
+END
+BillDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/BillDescription.java
+END
+GeneratePdf1.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/GeneratePdf1.java
+END
+BillingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/14/OnlineDms/src/java/bill/generator/BillingManager.java
+END

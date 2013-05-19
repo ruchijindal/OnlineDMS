@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/14/OnlineDms/web/NEWDMS/jsppages/billing
+END
+default_err.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/14/OnlineDms/web/NEWDMS/jsppages/billing/default_err.jsp
+END
+ledgergen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/14/OnlineDms/web/NEWDMS/jsppages/billing/ledgergen.jsp
+END
+billgen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/14/OnlineDms/web/NEWDMS/jsppages/billing/billgen.jsp
+END
+housing_billing.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/14/OnlineDms/web/NEWDMS/jsppages/billing/housing_billing.jsp
+END
+groupHousingBill.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/14/OnlineDms/web/NEWDMS/jsppages/billing/groupHousingBill.jsp
+END

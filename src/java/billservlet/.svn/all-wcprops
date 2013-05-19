@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet
+END
+GetLedger.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/GetLedger.java
+END
+consumerBillDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/consumerBillDetail.java
+END
+LedgerExcel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/LedgerExcel.java
+END
+CancelCrdt.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/CancelCrdt.java
+END
+ExcelGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/ExcelGen.java
+END
+LedgerPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/LedgerPdf.java
+END
+CalBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/CalBill.java
+END
+Err.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/Err.java
+END
+CreditorGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/CreditorGen.java
+END
+CancelDeflt.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/CancelDeflt.java
+END
+DefaulterGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/14/OnlineDms/src/java/billservlet/DefaulterGen.java
+END

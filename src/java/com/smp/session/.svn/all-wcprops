@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session
+END
+RatesFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/RatesFacade.java
+END
+Master3Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Master3Facade.java
+END
+Master2Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Master2Facade.java
+END
+Master1Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Master1Facade.java
+END
+LoginTabFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/LoginTabFacade.java
+END
+Challan3Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Challan3Facade.java
+END
+Challan2Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Challan2Facade.java
+END
+InterestRatesFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/InterestRatesFacade.java
+END
+Challan1Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Challan1Facade.java
+END
+Sewerdetails3Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Sewerdetails3Facade.java
+END
+Sewerdetails2Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Sewerdetails2Facade.java
+END
+AbstractFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/AbstractFacade.java
+END
+Billrepository3Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Billrepository3Facade.java
+END
+CessRateFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/CessRateFacade.java
+END
+Sewerdetails1Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Sewerdetails1Facade.java
+END
+DiscountRateFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/DiscountRateFacade.java
+END
+Billrepository2Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Billrepository2Facade.java
+END
+Billrepository1Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/Billrepository1Facade.java
+END
+HousingRateFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/14/OnlineDms/src/java/com/smp/session/HousingRateFacade.java
+END
